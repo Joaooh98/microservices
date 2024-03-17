@@ -3,7 +3,9 @@
 
 Abaixo está a representação de uma arquitetura de microserviços típica:
 
-![Arquitetura de Microserviços](sandbox:/mnt/data/image.png)
+<div style="text-align:center;">
+  <img src="simpleExample.png" style="width:500px; max-width:100%;" alt="Computador">
+</div>
 
 ## Descrição da Arquitetura
 
