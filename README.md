@@ -4,7 +4,7 @@
 Abaixo está a representação de uma arquitetura de microserviços típica:
 
 <div style="text-align:center;">
-  <img src="simpleExample.png" style="width:750px; max-width:100%;" alt="Computador">
+  <img src="https://github.com/Joaooh98/microservices/blob/main/introduction/simpleExample.png" style="width:750px; max-width:100%;" alt="Computador">
 </div>
 
 ## Descrição da Arquitetura
