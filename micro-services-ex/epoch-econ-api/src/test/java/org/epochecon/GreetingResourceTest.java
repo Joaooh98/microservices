@@ -1,4 +1,4 @@
-package org.EpochEcon;
+package org.epochecon;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;

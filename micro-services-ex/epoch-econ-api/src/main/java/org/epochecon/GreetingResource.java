@@ -1,4 +1,4 @@
-package org.EpochEcon;
+package org.epochecon;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
